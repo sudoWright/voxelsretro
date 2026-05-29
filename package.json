@@ -130,7 +130,7 @@
     "io-ts-to-json-schema": "^0.2.0",
     "ix": "^4.5.2",
     "jose": "^6.2.2",
-    "js-cookie": "3.0.5",
+    "js-cookie": "3.0.7",
     "jsesc": "3.0.2",
     "json-edit-react": "^1.29.0",
     "less": "4.1.3",
