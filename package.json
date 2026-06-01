@@ -252,7 +252,7 @@
     "raw-loader": "^4.0.2",
     "strip-json-comments-loader": "^0.0.2",
     "ts-loader": "9.4.4",
-    "vitest": "^3.2.4",
+    "vitest": "^4.1.0",
     "webpack": "^5.88.1",
     "webpack-bundle-analyzer": "^4.9.0",
     "webpack-cli": "^5.1.4",
